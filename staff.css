@@ -1,0 +1,64 @@
+body{background-color: white;}
+
+h4{font-family: 'Alumni Sans', sans-serif; font-size: 20px; margin-top: 0px; color: gray;}
+h1{font-family: 'Alumni Sans', sans-serif; font-size: 40px;}
+h2{font-family: 'Roboto', sans-serif; font-style: oblique; font-size: 30px;}
+h5{font-family: 'Alumni Sans', sans-serif; font-size: 25px;}
+
+pre {font-family: arial black; margin-top: 0px; font-size: 15px;}
+img{height: 300px; width: 100%;}
+
+li{font-family: 'Alumni Sans', sans-serif; font-size: 20px; color: gray;}
+
+iframe{width: 100%;}
+
+
+#pre_header{
+	background-color: ; height: 30px; width: 500px; margin-left: 15%; text-align: left; font-size: 30px; font-family: 'Alumni Sans', sans-serif;
+}
+
+#header{
+	background-color: red; height: 50px; width: 70%; margin-left: 15%;
+}
+
+#button_1{background-color: #f5803d; padding: 10px; border-color: #f5803d; width: 20%; height: 50px; float: left;  font-family: 'Alumni Sans', sans-serif; font-size: 20px; color: white;}
+
+#content{
+	background-color: ; height: 700px; width: 70%; margin-left: 15%;
+}
+
+#footer{
+	background-color: #e6e6e6; height: 300px; width: 70%; margin-left: 15%;
+}
+#orange{
+	background-color: #fce0cf;
+	width: 100%;
+	height: 5%;
+	text-align: center;
+	font-family:'Montserrat', sans-serif;
+}
+
+#content_1{
+	background-color: ; height: 150px; width: 49%; float: left;
+}
+#content_2{
+	background-color: ; height: 150px; width: 49%;  float: right;
+}
+#content_3{
+	background-color: ; height: 100px; width: 49%; float: left; margin-top: 3%;
+}
+#content_4{
+	background-color: ; height: 100px; width: 49%;  float: right; margin-top: 3%;
+}
+
+#footer_1{
+	background-color: ; height: 300px; width: 33%; margin-left: 0px; float: left;
+}
+
+#footer_2{
+	background-color: ; height: 300px; width: 34%; margin-left: 0px; float: left;
+}
+
+#footer_3{
+	background-color: ; height: 300px; width: 33%; margin-left: 0px; float: left;
+}
